@@ -1,6 +1,6 @@
 # Projeto QuickJobs
 
-Fiz a orientação desse Projeto de Conclusão de Curso técnica ETEP - São José dos Campos/SP que finalizou em
+Fiz a orientação desse Projeto de Conclusão de Curso técnico da ETEP - São José dos Campos/SP que finalizou em
 Dezembro 2019. O projeto consistiu em um Site e um App Android da plataforma de serviços QuickJobs.
 
 # Tecnologias:
