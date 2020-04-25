@@ -1,11 +1,11 @@
 <h1 align="center"><img src="SiteQuickJobs/TCC/img/Logo1.ico " alt="Homepage" width="250"/></h1>
 
 <h4 align="center"> 
-	:heavy_check_mark:  Site e App de serviços QuickJobs :heavy_check_mark:
+	💯 Site e App de serviços QuickJobs 🆙
 </h4>
 
-## 🔖 Algumas Interfaces 
-<p align="center" vetical-aling="top" border="1" bordercolor="cian">
+## 📟 Algumas Interfaces 📇 
+<p align="center" vetical-aling="top">
  <img  src="SiteQuickJobs/TCC/img/imgInt1.png" alt="Homepage" title="Homepage" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src="SiteQuickJobs/TCC/img/imgInt2.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -81,6 +81,6 @@ Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
 
 ---
 
-Feito com ♥ 😊 😥 
+Feito com 🎧 ♥ 😊 😥 
  por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
 
