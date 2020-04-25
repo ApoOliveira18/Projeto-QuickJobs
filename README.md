@@ -5,7 +5,7 @@
 </h4>
 
 ## 🔖 Algumas Interfaces 
-<p align="center" vetical-aling="top">
+<p align="center" vetical-aling="top" border="1" bordercolor="cian">
  <img  src="SiteQuickJobs/TCC/img/imgInt1.png" alt="Homepage" title="Homepage" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src="SiteQuickJobs/TCC/img/imgInt2.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
