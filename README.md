@@ -1,4 +1,4 @@
-<h1 align="center"><img src="SiteQuickJobs/TCC/img/Logo1.ico " alt="Homepage" width="300"/></h1>
+<h1 align="center"><img src="SiteQuickJobs/TCC/img/Logo1.ico " alt="Homepage" width="250"/></h1>
 
 <h4 align="center"> 
 	:heavy_check_mark:  Site e App de serviços QuickJobs :heavy_check_mark:
