@@ -20,7 +20,7 @@
   <img  src="SiteQuickJobs/TCC/img/imgInt6.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 💻 Projeto
+## 💻 Projeto 📱
 <p>
     O Site e Aplicativo com o nome de "QuickJobs", fará a interligação entre
 interessados de serviços, tanto quem procura quanto para quem serve. Facilitando a
