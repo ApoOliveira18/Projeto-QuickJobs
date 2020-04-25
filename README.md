@@ -81,5 +81,6 @@ Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
 
 ---
 
-Feito com ♥ por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
+Feito com ♥ 😊 😥 
+ por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
 
